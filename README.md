@@ -1,102 +1,24 @@
-# Hi there, I'm Rohadi! 👋
+# Hi, I’m Rohadi 👋
 
-## 🚀 About Me
-I'm a passionate developer who loves creating innovative solutions and exploring new technologies. Welcome to my GitHub profile!
+## 🧭 About Me
+I work at the intersection of **technology, systems, and decision-making**.
 
+I started as a developer, but over time my focus shifted from just building features to designing **reliable workflows, automation, and decision-support systems** that remain useful under real-world constraints.
+
+I use technology — including AI — as an assistant to reduce noise, clarify options, and support better end-to-end decisions, not as a replacement for thinking.
+
+---
+
+## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrohadiz/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrohadiz)
 
-## 💻 Tech Stack
+---
+
+## 💻 Technical Tools I Use
+
+These are tools I commonly work with — chosen to support **systems, automation, and clarity**, not for the sake of stacks alone.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-## 🛠️ Featured Projects
-
-### 🔗 QR Generator
-**A simple WhatsApp QR Code generator**
-- 🐍 Built with Python
-- 📱 Generate QR codes for WhatsApp contacts
-- ⚡ Simple and efficient
-
-### 📊 PageSpeed Insights Analyzer
-**Python tool for analyzing website performance**
-- 🔍 Analyze website speed and performance
-- 📈 Get detailed insights and recommendations
-- 🐍 Python-powered analysis
-
-### 💬 Konseling Platform
-**Interactive analysis for building counseling platform**
-- 🧠 Focused on counseling needs analysis
-- 💡 Interactive platform development
-- 🎯 User-centered design approach
-
-### 🌐 Kampung Inggris LC
-**Language center platform**
-- 🚀 Built with TypeScript
-- 📚 Educational platform development
-- 💻 Modern web technologies
-
-### 📱 Flutter Quiz App
-**Mobile quiz application**
-- 📱 Cross-platform mobile development
-- 🎯 Interactive quiz functionality
-- 🎨 Beautiful UI/UX design
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrohadiz&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrohadiz&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrohadiz&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrohadiz&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-## 📊 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrohadiz&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Activity Graph" />
-</div>
-
-## 🎯 Current Focus
-
-- 🔭 I'm currently working on **Python automation tools**
-- 🌱 I'm learning **Advanced TypeScript and Vue.js**
-- 👯 I'm looking to collaborate on **Open source projects**
-- 💬 Ask me about **Python, JavaScript, Vue.js, Flutter**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/mrohadiz/)**
-- ⚡ Fun fact: **I love creating tools that make life easier!**
-
-## 🤝 Let's Connect!
-
-I'm always excited to collaborate on interesting projects and meet fellow developers. Feel free to reach out!
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrohadiz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
----
-
-<div align="center">
-  <h3>"Code is like humor. When you have to explain it, it's bad." – Cory House</h3>
-</div>
