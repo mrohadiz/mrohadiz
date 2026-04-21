@@ -11,10 +11,10 @@ While many focus on just "building features," I focus on building **Revenue Engi
 
 I specialize in the intersection of **Software Engineering** and **Growth Strategy**:
 
-*   **Marketing Data Intelligence**: Auditing attribution models (First-touch to Multi-touch) to eliminate budget waste.
-*   **Engineering for Growth**: Building custom internal tools (CRMs, Dashboards, Tracking Webhooks) that off-the-shelf software can't handle.
-*   **Operational Automation**: Using AI-driven development to build high-performance, resource-optimized systems (LXC/Termux) in record time.
-*   **Lead Stewardship**: Implementing "Anti-Loss" systems and Identity Stitching to ensure lead-to-revenue continuity.
+* **Marketing Data Intelligence**: Expertise in auditing complex attribution models (First-touch to Multi-touch) to eliminate budget waste. [cite_start]I solve "True Blind Spots" in multi-device and multi-identity user journeys.
+* **Engineering for Growth**: Building custom internal tools (CRMs, Dashboards, Tracking Webhooks) that off-the-shelf software can't handle.
+* **Operational Automation**: Using AI-driven development to build high-performance, resource-optimized systems in record time.
+* [cite_start]**Lead Stewardship**: Implementing "Anti-Loss" systems and Identity Stitching to ensure lead-to-revenue continuity.
 
 ---
 
@@ -33,14 +33,22 @@ I use technology as a lever to solve business problems, not just to write code.
 
 *Though most of my production code is in private enterprise repositories, here is the logic I build:*
 
-*   **Radar Trading System v8.0**: A deterministic execution engine for Binance Futures, optimized for low-resource environments (RAM usage  Registration -> Payment).
+### **1. Radar Trading System v8.0**
+A deterministic execution engine for Binance Futures, optimized for low-resource environments.
+* **Impact:** Reduced RAM usage from **71% to <2%** while maintaining sub-second execution.
+* **Stack:** Python, Termux/LXC.
+
+### **2. Tracking & Attribution Recovery Framework**
+A backend solution to solve attribution loss in non-linear user journeys (Paid → Organic → WA → Reg).
+* [cite_start]**Impact:** Decreased attribution "blind spots" by **10–20%** through identity mapping and backend lookup logic.
+* [cite_start]**Logic:** Implemented Identity Stitching to link leads across different devices and contact numbers.
 
 ---
 
 ## 🤝 Let's Talk Strategy
 I am at my best when solving "impossible" tracking problems or untangling messy management data.
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/mrohadiz/)
-[![Website](https://shields.io)](https://www.mrohadiz.my.id/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrohadiz/)
+[![Website](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mrohadiz.my.id/)
 
 *"I don't just build systems; I build clarity."*
