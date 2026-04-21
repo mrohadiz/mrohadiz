@@ -41,6 +41,6 @@ I use technology as a lever to solve business problems, not just to write code.
 I am at my best when solving "impossible" tracking problems or untangling messy management data.
 
 [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/mrohadiz/)
-[![Website](https://shields.io)](https://mrohadiz.blogspot.com/)
+[![Website](https://shields.io)](https://www.mrohadiz.my.id/)
 
 *"I don't just build systems; I build clarity."*
