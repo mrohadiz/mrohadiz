@@ -1,54 +1,214 @@
-# Hi, I’m M Rohadi Z 👋
-### **Growth Engineer | Marketing Technologist | Systems Architect**
+# Hi, I'm M Rohadi Z 👋
 
-I bridge the gap between **complex data technology** and **strategic business decisions**. 
+### **Software Architect | Decision Systems | Business Intelligence**
 
-While many focus on just "building features," I focus on building **Revenue Engines**—designing automated systems that ensure every marketing dollar is trackable, every lead is accounted for, and every decision is backed by clean, audited data.
+I design software platforms that transform fragmented operational data into reliable business intelligence and decision systems.
 
----
+My work focuses on building software that helps organizations move beyond dashboards—creating systems where data becomes observable, decisions become auditable, and operations become measurable.
 
-## 🚀 What I Bring to the Table
-
-I specialize in the intersection of **Software Engineering** and **Growth Strategy**:
-
-* **Marketing Data Intelligence**: Expertise in auditing complex attribution models (First-touch to Multi-touch) to eliminate budget waste. [cite_start]I solve "True Blind Spots" in multi-device and multi-identity user journeys.
-* **Engineering for Growth**: Building custom internal tools (CRMs, Dashboards, Tracking Webhooks) that off-the-shelf software can't handle.
-* **Operational Automation**: Using AI-driven development to build high-performance, resource-optimized systems in record time.
-* [cite_start]**Lead Stewardship**: Implementing "Anti-Loss" systems and Identity Stitching to ensure lead-to-revenue continuity.
+I believe great software is not only about delivering features, but about reducing uncertainty through architecture, automation, and evidence-based decision making.
 
 ---
 
-## 🛠️ The Tech Stack (Chosen for Impact)
+# 🚀 What I Do
 
-I use technology as a lever to solve business problems, not just to write code.
+I specialize in designing software systems that connect technology with business operations.
 
-- **Languages:** Python (Data/Automation), JavaScript/TypeScript (Web/Backend), Bash (System Infra).
-- **Engines:** Node.js, Flask, Socket.io (Real-time systems).
-- **Data & Ops:** PostgreSQL (Supabase), Redis, Docker, Git, CI/CD.
-- **Specialty:** High-speed development through **AI-Augmented Engineering**.
+### Decision Systems
+
+Designing platforms that transform operational data into actionable business decisions through structured intelligence, observability, and automation.
+
+### Software Architecture
+
+Building scalable, maintainable, and domain-driven software using modern architecture principles, semantic modeling, and institutional documentation.
+
+### Business Intelligence
+
+Creating measurement frameworks that enable organizations to understand performance, identify bottlenecks, and improve operational visibility.
+
+### Operational Automation
+
+Automating repetitive workflows and integrating business processes to improve efficiency, consistency, and reliability.
+
+### AI-Augmented Engineering
+
+Leveraging AI to accelerate software development while maintaining deterministic architecture, documentation quality, and engineering standards.
 
 ---
 
-## 📊 Highlighted Projects (Architecture & Logic)
+# 🏗 Core Expertise
 
-*Though most of my production code is in private enterprise repositories, here is the logic I build:*
-
-### **1. Radar Trading System v8.0**
-A deterministic execution engine for Binance Futures, optimized for low-resource environments.
-* **Impact:** Reduced RAM usage from **71% to <2%** while maintaining sub-second execution.
-* **Stack:** Python, Termux/LXC.
-
-### **2. Tracking & Attribution Recovery Framework**
-A backend solution to solve attribution loss in non-linear user journeys (Paid → Organic → WA → Reg).
-* [cite_start]**Impact:** Decreased attribution "blind spots" by **10–20%** through identity mapping and backend lookup logic.
-* [cite_start]**Logic:** Implemented Identity Stitching to link leads across different devices and contact numbers.
+* Software Architecture
+* Decision Systems
+* Business Intelligence
+* Domain-Driven Design (DDD)
+* System Observability
+* Data Modeling
+* Operational Intelligence
+* Platform Engineering
+* Workflow Automation
+* AI-Augmented Engineering
 
 ---
 
-## 🤝 Let's Talk Strategy
-I am at my best when solving "impossible" tracking problems or untangling messy management data.
+# 🛠 Technology Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrohadiz/)
-[![Website](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mrohadiz.my.id/)
+### Languages
 
-*"I don't just build systems; I build clarity."*
+* Python
+* TypeScript
+* JavaScript
+* SQL
+* Bash
+
+### Backend & Platform
+
+* Node.js
+* Hono
+* Flask
+* REST API
+* WebSocket
+
+### Frontend
+
+* Next.js
+* React
+
+### Data
+
+* PostgreSQL
+* MongoDB
+* Redis
+* Prisma ORM
+
+### Infrastructure
+
+* Docker
+* Linux
+* systemd
+* Git
+* CI/CD
+
+### Automation
+
+* n8n
+* Webhooks
+* Event-driven Architecture
+
+---
+
+# 📊 Selected Projects
+
+> Most production systems are developed in private repositories. The following projects represent the architectural approaches and engineering principles behind my work.
+
+---
+
+## TGM Decision Intelligence Platform
+
+A business platform that integrates measurement, operational performance, lead intelligence, and decision support into a unified decision system.
+
+**Focus**
+
+* Business Intelligence
+* Decision Intelligence
+* Semantic Layer
+* Business Language
+* Performance Analytics
+* Operational Visibility
+
+**Architecture**
+
+* Next.js
+* Hono
+* PostgreSQL
+* MongoDB
+* Redis
+* Docker
+
+---
+
+## Decision Intelligence Framework
+
+A modular architecture for transforming business events into observable insights and actionable recommendations.
+
+**Capabilities**
+
+* Measurement Layer
+* Performance Layer
+* Decision Layer
+* Narrative Registry
+* Metric Registry
+* Behavioral Analysis
+
+---
+
+## Tracking & Attribution Framework
+
+A backend system for improving attribution quality across complex customer journeys.
+
+**Highlights**
+
+* Identity Resolution
+* Attribution Recovery
+* Multi-touch Journey Analysis
+* Lead Continuity
+* Backend Intelligence
+
+---
+
+## Operational Automation Platform
+
+Automation platform integrating multiple business systems into reliable operational workflows.
+
+**Focus**
+
+* Workflow Automation
+* Event Processing
+* Monitoring
+* Operational Logging
+* Deployment Automation
+
+---
+
+# 🏛 Engineering Principles
+
+The systems I build are guided by several architectural principles.
+
+* Architecture before Features
+* Business Language as a Shared Contract
+* Evidence over Assumptions
+* Observable Systems
+* Decision before Dashboard
+* Automation where Repeatability Exists
+* Documentation as a First-Class Asset
+* Single Source of Truth
+
+---
+
+# 📚 Current Interests
+
+Currently exploring and building systems around:
+
+* Decision Intelligence
+* AI-assisted Software Engineering
+* Business Observability
+* Platform Architecture
+* Knowledge Systems
+* Semantic Modeling
+* Operational Analytics
+* Enterprise Automation
+
+---
+
+# 🤝 Let's Connect
+
+I enjoy discussing software architecture, decision systems, business intelligence, and operational software that solves real organizational problems.
+
+* 🌐 Website: **https://www.mrohadiz.my.id/**
+* 💼 LinkedIn: **https://www.linkedin.com/in/mrohadiz/**
+
+---
+
+> **"Building software that turns information into decisions."**
+
+Kalau suatu saat repository **Devira Labs** sudah mulai dipublikasikan, saya juga menyarankan README profil ini diperbarui lagi agar menampilkan **Featured Open Source Projects**. Dengan begitu, profil GitHub Anda tidak hanya menjelaskan siapa Anda, tetapi juga langsung menunjukkan implementasi nyata dari filosofi **Software Architect | Decision Systems | Business Intelligence**.
