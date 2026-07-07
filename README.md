@@ -210,5 +210,3 @@ I enjoy discussing software architecture, decision systems, business intelligenc
 ---
 
 > **"Building software that turns information into decisions."**
-
-Kalau suatu saat repository **Devira Labs** sudah mulai dipublikasikan, saya juga menyarankan README profil ini diperbarui lagi agar menampilkan **Featured Open Source Projects**. Dengan begitu, profil GitHub Anda tidak hanya menjelaskan siapa Anda, tetapi juga langsung menunjukkan implementasi nyata dari filosofi **Software Architect | Decision Systems | Business Intelligence**.
